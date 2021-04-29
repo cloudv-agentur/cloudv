@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/pages/6080747f312f4/static/css/main.4162dc41.chunk.css",
+    "main.js": "/pages/6080747f312f4/static/js/main.c2cee1c5.chunk.js",
+    "main.js.map": "/pages/6080747f312f4/static/js/main.c2cee1c5.chunk.js.map",
+    "runtime-main.js": "/pages/6080747f312f4/static/js/runtime-main.112261e2.js",
+    "runtime-main.js.map": "/pages/6080747f312f4/static/js/runtime-main.112261e2.js.map",
+    "static/js/2.6cf2d19f.chunk.js": "/pages/6080747f312f4/static/js/2.6cf2d19f.chunk.js",
+    "static/js/2.6cf2d19f.chunk.js.map": "/pages/6080747f312f4/static/js/2.6cf2d19f.chunk.js.map",
+    "static/js/3.8827dc67.chunk.js": "/pages/6080747f312f4/static/js/3.8827dc67.chunk.js",
+    "static/js/3.8827dc67.chunk.js.map": "/pages/6080747f312f4/static/js/3.8827dc67.chunk.js.map",
+    "index.html": "/pages/6080747f312f4/index.html",
+    "static/css/main.4162dc41.chunk.css.map": "/pages/6080747f312f4/static/css/main.4162dc41.chunk.css.map",
+    "static/js/2.6cf2d19f.chunk.js.LICENSE.txt": "/pages/6080747f312f4/static/js/2.6cf2d19f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pages/6080747f312f4/static/media/background.a5f5bbd8.gif",
+    "static/media/bestway-nav.627c035f.PNG": "/pages/6080747f312f4/static/media/bestway-nav.627c035f.PNG",
+    "static/media/bestway-produkte.269caeaf.PNG": "/pages/6080747f312f4/static/media/bestway-produkte.269caeaf.PNG",
+    "static/media/bestway-standort.240a66f0.PNG": "/pages/6080747f312f4/static/media/bestway-standort.240a66f0.PNG",
+    "static/media/bestway.6b152dc9.png": "/pages/6080747f312f4/static/media/bestway.6b152dc9.png",
+    "static/media/büro.26aed1b9.gif": "/pages/6080747f312f4/static/media/büro.26aed1b9.gif",
+    "static/media/logo_dark.cbe9ba99.svg": "/pages/6080747f312f4/static/media/logo_dark.cbe9ba99.svg",
+    "static/media/person-groß.f69ca16a.png": "/pages/6080747f312f4/static/media/person-groß.f69ca16a.png",
+    "static/media/strich_links.90a3a931.svg": "/pages/6080747f312f4/static/media/strich_links.90a3a931.svg",
+    "static/media/strich_rechts.6d23acd9.svg": "/pages/6080747f312f4/static/media/strich_rechts.6d23acd9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.112261e2.js",
+    "static/js/2.6cf2d19f.chunk.js",
+    "static/css/main.4162dc41.chunk.css",
+    "static/js/main.c2cee1c5.chunk.js"
+  ]
+}
